@@ -14,4 +14,12 @@ htmltext = URI.open(url)
 #p htmltext
 
 response = Nokogiri::HTML(htmltext)
-p response
+#p response.xpath("//a[text()='#{link_text}']/@href").to_s
+#p response
+
+#nodeset = response.xpath("//*[contains(@class, 'ddmcc')]//a/@href")
+nodeset = response.xpath("//*[contains(@class, 'ddmcc')]//a")
+links = nodeset.map {|element| element["href"]}.compact
+p links
+composers = nodeset.map{|element| element.text}.compact
+p composers
