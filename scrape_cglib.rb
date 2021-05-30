@@ -8,5 +8,10 @@ require 'pry'
 #binding.pry
 
 url = 'https://www.cglib.org/composers'
-p url
-doc = Nokogiri::HTML(open(url).read)
+#p url
+#doc = Nokogiri::HTML(open(url).read)
+htmltext = URI.open(url)
+#p htmltext
+
+response = Nokogiri::HTML(htmltext)
+p response
