@@ -1,90 +1,90 @@
-name,era
-Tomaso Giovanni Albinoni,Baroque
-R Asuke,Baroque
-Johann Sebastian Bach,Baroque
-Ernst Gottlieb Baron,Baroque
-Angelo Michele Bartolotti,Baroque
-Johann Andreas Bohr von Bohrenfels,Baroque
-Joseph Bodin de Boismortier,Baroque
-Giuseppe Borsilli,Baroque
-Dieterich Buxtehude,Baroque
-Antonio Caldara,Baroque
-Carlo Calvi,Baroque
-Francois Campion,Baroque
-Antonio Carbonchi,Baroque
-Robert Carr,Baroque
-Francesco Corbetta,Baroque
-Francois Couperin,Baroque
-William Croft,Baroque
-Francis Cutting,Baroque
-Paul Charles Durant,Baroque
-Adam Falkenhagen,Baroque
-Girolamo Frescobaldi,Baroque
-Johann Joseph Fux,Baroque
-Vincenzo Galilei,Baroque
-Alexandre Gallot,Baroque
-Jacques Gallot,Baroque
-Ennemond Gaultier,Baroque
-Georg Gebel,Baroque
-Adam Franz Ginter,Baroque
-Johann Laurentius Gleimius,Baroque
-Ferdinand Graf von Bergen,Baroque
-Francisco Guerau,Baroque
-Johann Gumprecht,Baroque
-Georg Friedrich Handel,Baroque
-Johann Adolf Hasse,Baroque
-Cuthbert Hely,Baroque
-Johann Christoph Hobach,Baroque
-Wolfgang Adam Anton von Hoffer,Baroque
-P Ilgner,Baroque
-Johann Christian Jacobi,Baroque
-Johann Hieronymus Kapsberger,Baroque
-David Kellner,Baroque
-Jakob Kremberg,Baroque
-Adam Krieger,Baroque
-Johann Kropffgans,Baroque
-Johann Kuhnau,Baroque
-Johann Michael Kühnel,Baroque
-Alex Lambert,Baroque
-Wolff Jacob Lauffensteiner,Baroque
-William Lawes,Baroque
-Francois Le Cocq,Baroque
-Jan Antonín Losy,Baroque
-Thomas Mace,Baroque
-Marin Marais,Baroque
-Johann Mattheson,Baroque
-Jean Mercure,Baroque
-Gottfried Meüsel,Baroque
-Simone Molinaro,Baroque
-Charles Mouton,Baroque
-Santiago de Murcia,Baroque
-Antonio Maria Nava,Baroque
-J Nicolai,Baroque
-Turlough OCarolan,Baroque
-Johann Pachelbel,Baroque
-Martin Pearson,Baroque
-Domenico Pellegrini,Baroque
-Christian Petzold,Baroque
-Alessandro Piccinini,Baroque
-Placide Marie Pichler,Baroque
-Philipp Hyacinth Prince Lobkowitz,Baroque
-Henry Purcell,Baroque
-Jean Philippe Rameau,Baroque
-Esaias Reusner,Baroque
-Conte Ludovico Roncalli,Baroque
-Pietro Paolo Sabbatini,Baroque
-Gaspar Sanz,Baroque
-Alessandro Scarlatti,Baroque
-Domenico Scarlatti,Baroque
-Johann Hermann Schein,Baroque
-Antonio Soler,Baroque
-Luc St,Baroque
-Giovanni Stefani,Baroque
-Georg Philipp Telemann,Baroque
-Nicolaes Vallet,Baroque
-Robert de Visee,Baroque
-Antonio Vivaldi,Baroque
-Johann Georg Weichenberger,Baroque
-Sylvius Leopold Weiss,Baroque
-John Wilson,Baroque
-Fray Gregorio Zuola,Baroque
+name,era,url
+Tomaso Giovanni Albinoni,Baroque,https://www.cglib.org/category/baroque/albinoni-tomaso-giovanni/
+R Asuke,Baroque,https://www.cglib.org/category/baroque/asuke-r/
+Johann Sebastian Bach,Baroque,https://www.cglib.org/category/baroque/bach-johann-sebastian/
+Ernst Gottlieb Baron,Baroque,https://www.cglib.org/category/baroque/baron-ernst-gottlieb/
+Angelo Michele Bartolotti,Baroque,https://www.cglib.org/category/baroque/bartolotti-angelo-michele/
+Johann Andreas Bohr von Bohrenfels,Baroque,https://www.cglib.org/category/baroque/bohrenfels-johann-andreas-bohr-von/
+Joseph Bodin de Boismortier,Baroque,https://www.cglib.org/category/baroque/boismortier-joseph-bodin-de/
+Giuseppe Borsilli,Baroque,https://www.cglib.org/category/baroque/borsilli-giuseppe/
+Dieterich Buxtehude,Baroque,https://www.cglib.org/category/baroque/buxtehude-dieterich/
+Antonio Caldara,Baroque,https://www.cglib.org/category/baroque/caldara-antonio/
+Carlo Calvi,Baroque,https://www.cglib.org/category/baroque/calvi-carlo/
+Francois Campion,Baroque,https://www.cglib.org/category/baroque/campion-francois/
+Antonio Carbonchi,Baroque,https://www.cglib.org/category/baroque/carbonchi-antonio/
+Robert Carr,Baroque,https://www.cglib.org/category/baroque/carr-robert/
+Francesco Corbetta,Baroque,https://www.cglib.org/category/baroque/corbetta-francesco/
+Francois Couperin,Baroque,https://www.cglib.org/category/baroque/couperin-francois/
+William Croft,Baroque,https://www.cglib.org/category/baroque/croft-william/
+Francis Cutting,Baroque,https://www.cglib.org/category/baroque/cutting-francis/
+Paul Charles Durant,Baroque,https://www.cglib.org/category/baroque/durant-paul-charles/
+Adam Falkenhagen,Baroque,https://www.cglib.org/category/baroque/falkenhagen-adam/
+Girolamo Frescobaldi,Baroque,https://www.cglib.org/category/baroque/frescobaldi-girolamo/
+Johann Joseph Fux,Baroque,https://www.cglib.org/category/baroque/fux-johann-joseph/
+Vincenzo Galilei,Baroque,https://www.cglib.org/category/baroque/galilei-vincenzo/
+Alexandre Gallot,Baroque,https://www.cglib.org/category/baroque/gallot-alexandre/
+Jacques Gallot,Baroque,https://www.cglib.org/category/baroque/gallot-jacques/
+Ennemond Gaultier,Baroque,https://www.cglib.org/category/baroque/gaultier-ennemond/
+Georg Gebel,Baroque,https://www.cglib.org/category/baroque/gebel-georg/
+Adam Franz Ginter,Baroque,https://www.cglib.org/category/baroque/ginter-adam-franz/
+Johann Laurentius Gleimius,Baroque,https://www.cglib.org/category/baroque/gleimius-johann-laurentius/
+Ferdinand Graf von Bergen,Baroque,https://www.cglib.org/category/baroque/graf-von-bergen-ferdinand/
+Francisco Guerau,Baroque,https://www.cglib.org/category/baroque/guerau-francisco/
+Johann Gumprecht,Baroque,https://www.cglib.org/category/baroque/gumprecht-johann/
+Georg Friedrich Handel,Baroque,https://www.cglib.org/category/baroque/handel-georg-friedrich/
+Johann Adolf Hasse,Baroque,https://www.cglib.org/category/baroque/hasse-johann-adolf/
+Cuthbert Hely,Baroque,https://www.cglib.org/category/baroque/hely-cuthbert/
+Johann Christoph Hobach,Baroque,https://www.cglib.org/category/baroque/hobach-johann-christoph/
+Wolfgang Adam Anton von Hoffer,Baroque,https://www.cglib.org/category/baroque/hoffer-wolfgang-adam-anton-von/
+P Ilgner,Baroque,https://www.cglib.org/category/baroque/ilgner-p/
+Johann Christian Jacobi,Baroque,https://www.cglib.org/category/baroque/jacobi-johann-christian/
+Johann Hieronymus Kapsberger,Baroque,https://www.cglib.org/category/baroque/kapsberger-johann-hieronymus/
+David Kellner,Baroque,https://www.cglib.org/category/baroque/kellner-david/
+Jakob Kremberg,Baroque,https://www.cglib.org/category/baroque/kremberg-jakob/
+Adam Krieger,Baroque,https://www.cglib.org/category/baroque/krieger-adam/
+Johann Kropffgans,Baroque,https://www.cglib.org/category/baroque/kropffgans-johann/
+Johann Kuhnau,Baroque,https://www.cglib.org/category/baroque/kuhnau-johann/
+Johann Michael Kühnel,Baroque,https://www.cglib.org/category/baroque/kuhnel-johann-michael/
+Alex Lambert,Baroque,https://www.cglib.org/category/baroque/lambert-alex/
+Wolff Jacob Lauffensteiner,Baroque,https://www.cglib.org/category/baroque/lauffensteiner-wolff-jacob/
+William Lawes,Baroque,https://www.cglib.org/category/baroque/lawes-william/
+Francois Le Cocq,Baroque,https://www.cglib.org/category/baroque/le-cocq-francois/
+Jan Antonín Losy,Baroque,https://www.cglib.org/category/baroque/losy-jan-antonin/
+Thomas Mace,Baroque,https://www.cglib.org/category/baroque/mace-thomas/
+Marin Marais,Baroque,https://www.cglib.org/category/baroque/marais-marin/
+Johann Mattheson,Baroque,https://www.cglib.org/category/baroque/mattheson-johann/
+Jean Mercure,Baroque,https://www.cglib.org/category/baroque/mercure-jean/
+Gottfried Meüsel,Baroque,https://www.cglib.org/category/baroque/meusel-gottfried/
+Simone Molinaro,Baroque,https://www.cglib.org/category/baroque/molinaro-simone/
+Charles Mouton,Baroque,https://www.cglib.org/category/baroque/mouton-charles/
+Santiago de Murcia,Baroque,https://www.cglib.org/category/baroque/murcia-santiago-de/
+Antonio Maria Nava,Baroque,https://www.cglib.org/category/baroque/nava-antonio-maria/
+J Nicolai,Baroque,https://www.cglib.org/category/baroque/nicolai-j-m/
+Turlough OCarolan,Baroque,https://www.cglib.org/category/baroque/ocarolan-turlough/
+Johann Pachelbel,Baroque,https://www.cglib.org/category/baroque/pachelbel-johann/
+Martin Pearson,Baroque,https://www.cglib.org/category/baroque/pearson-martin/
+Domenico Pellegrini,Baroque,https://www.cglib.org/category/baroque/pellegrini-domenico/
+Christian Petzold,Baroque,https://www.cglib.org/category/baroque/petzold-christian/
+Alessandro Piccinini,Baroque,https://www.cglib.org/category/baroque/piccinini-alessandro/
+Placide Marie Pichler,Baroque,https://www.cglib.org/category/baroque/pichler-placide-marie/
+Philipp Hyacinth Prince Lobkowitz,Baroque,https://www.cglib.org/category/baroque/prince-lobkowitz-philipp-hyacinth/
+Henry Purcell,Baroque,https://www.cglib.org/category/baroque/purcell-henry/
+Jean Philippe Rameau,Baroque,https://www.cglib.org/category/baroque/rameau-jean-philippe/
+Esaias Reusner,Baroque,https://www.cglib.org/category/baroque/reusner-esaias/
+Conte Ludovico Roncalli,Baroque,https://www.cglib.org/category/baroque/roncalli-conte-ludovico/
+Pietro Paolo Sabbatini,Baroque,https://www.cglib.org/category/baroque/sabbatini-pietro-paolo/
+Gaspar Sanz,Baroque,https://www.cglib.org/category/baroque/sanz-gaspar/
+Alessandro Scarlatti,Baroque,https://www.cglib.org/category/baroque/scarlatti-alessandro/
+Domenico Scarlatti,Baroque,https://www.cglib.org/category/baroque/scarlatti-domenico/
+Johann Hermann Schein,Baroque,https://www.cglib.org/category/baroque/schein-johann-hermann/
+Antonio Soler,Baroque,https://www.cglib.org/category/baroque/soler-antonio/
+Luc St,Baroque,https://www.cglib.org/category/baroque/st-luc-jacques/
+Giovanni Stefani,Baroque,https://www.cglib.org/category/baroque/stefani-giovanni/
+Georg Philipp Telemann,Baroque,https://www.cglib.org/category/baroque/telemann-georg-philipp/
+Nicolaes Vallet,Baroque,https://www.cglib.org/category/baroque/vallet-nicolaes/
+Robert de Visee,Baroque,https://www.cglib.org/category/baroque/visee-robert-de/
+Antonio Vivaldi,Baroque,https://www.cglib.org/category/baroque/vivaldi-antonio/
+Johann Georg Weichenberger,Baroque,https://www.cglib.org/category/baroque/weichenberger-johann-georg/
+Sylvius Leopold Weiss,Baroque,https://www.cglib.org/category/baroque/weiss-sylvius-leopold/
+John Wilson,Baroque,https://www.cglib.org/category/baroque/wilson-john/
+Fray Gregorio Zuola,Baroque,https://www.cglib.org/category/baroque/zuola-fray-gregorio/
